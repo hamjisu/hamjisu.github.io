@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: Just who the hell you think I am?
+title: Welcom To My Blog!
+subtitle: "Welcom"
 permalink: /about/
 ---
 
