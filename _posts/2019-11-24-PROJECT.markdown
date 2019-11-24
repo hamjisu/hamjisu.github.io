@@ -5,6 +5,13 @@ subtitle: null
 date:   2019-11-24 23:34:01
 categories: [design, tool]
 ---
+
+<strong>PROJECT</strong><br>
+- Phonebook(전화번호부:c++,c)<br>
+- Video-rental-stores(비디오대여점)<br>
+- Flashmemory(플래쉬메모리)<br>
+- Driving simulator(운전시뮬레이션)<br>
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
