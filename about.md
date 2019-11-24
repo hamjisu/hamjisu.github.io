@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcom To My Blog!
-subtitle: "Welcom"
+subtitle: null
 permalink: /about/
 ---
 
