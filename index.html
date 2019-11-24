@@ -18,7 +18,7 @@ sitemap:
 <BR>
 <BR>
 <ul class="list-posts">
-<P ALIGN="left">
+
     {% for post in site.posts %}
         <li class="post-teaser">
             <a href="{{ post.url | prepend: site.baseurl }}">
@@ -28,5 +28,4 @@ sitemap:
         </li>
     {% endfor %}
 
-</p>
 </ul>
