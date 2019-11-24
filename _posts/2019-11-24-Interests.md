@@ -5,6 +5,15 @@ subtitle: "관심분야"
 date:   2019-11-24 20:00:00
 categories: [design, tool]
 ---
-
-<FONT SIZE="3">Interests</FONT><BR>
-<FONT SIZE="1">관심분야</FONT><BR>
+<ul>
+<H2>Interests</H2><br>
+관심분야<br>
+- Potoshop<br>
+- Maya<br>
+</ul>
+<ul>
+<H2>Interest</H2><br>
+관심직업<br>
+- Graphic designer<br>
+- Video editing<br>
+</ul>
