@@ -10,6 +10,7 @@ categories: [design, tool]
 관심분야<br>
 - Potoshop<br>
 - Maya<br>
+- Illustration<br>
 </ul>
 <ul>
 <H2>Interest</H2><br>
