@@ -10,12 +10,13 @@ sitemap:
 <strong>Department</strong>:Media Engineering<br>
 <strong>E-mail</strong>:h_h0164@naver.com</imgsrc><br>
 </p>
-<p>
+
 <BR>
 <BR>
 <BR>
 <BR>
 <ul class="list-posts">
+<P ALIGN="left">
     {% for post in site.posts %}
         <li class="post-teaser">
             <a href="{{ post.url | prepend: site.baseurl }}">
@@ -24,5 +25,5 @@ sitemap:
             </a>
         </li>
     {% endfor %}
-</ul>
 </p>
+</ul>
